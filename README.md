@@ -53,7 +53,7 @@
   <!-- ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC) -->
 
 <br/>
-<div style="display: flex; flex-container: nowrap; justify-content: space-between; align-items: flex-end">
+<div style="display: flex; flex-container: nowrap; justify-content: space-between">
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorrayneCardozo&theme=dracula&hide_langs_below=1" />

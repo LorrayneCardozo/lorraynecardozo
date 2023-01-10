@@ -53,14 +53,14 @@
   <!-- ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC) -->
 
 <br/>
-<div style="display: flex; flex-direction: row; flex-container: nowrap; justify-content: space-between; align-items: flex-end">
+<div style="display: flex; flex-container: nowrap; justify-content: space-between; align-items: flex-end">
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorrayneCardozo&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/LorrayneCardozo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorrayneCardozo&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorrayneCardozo&show_icons=true&theme=dracula&line_height=27" />
 </a>
 </div>
 <br/>

@@ -53,14 +53,17 @@
   <!-- ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC) -->
 
 <br/>
+<p align="center">
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorrayneCardozo&theme=dracula&hide_langs_below=1" />
 </a>
+</p>
 
+<p align="center">
 <a href="https://github.com/LorrayneCardozo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorrayneCardozo&show_icons=true&theme=dracula&line_height=27" />
 </a>
-
+</p>
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 

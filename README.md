@@ -4,7 +4,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 <!-- - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software. -->
-- 🎓 &nbsp; Estudando **Engenharia de Software** na <a href="https://www.unb.br/">Universidade de Brasília (UnB)</a>.
+- 🎓 &nbsp; Graduada em **Engenharia de Software** na <a href="https://www.unb.br/">Universidade de Brasília (UnB)</a>.
 <!-- - 🌱 &nbsp; Aprendendo mais sobre a área de **QA**. -->
 <!-- - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a> -->
 
